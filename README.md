@@ -80,7 +80,6 @@ pip install -r requirements.txt
 # Run the notebook
 jupyter notebook
 
-# Optional: Launch Streamlit app
-streamlit run app.py
+
 🧠 Prediction Output
 Given input values such as age, chest pain type, and cholesterol levels, the model predicts whether the patient is likely to have heart disease (1) or not (0).
